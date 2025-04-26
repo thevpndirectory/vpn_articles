@@ -56,23 +56,3 @@ Knowing these terms will help you:
 - Understand advanced features like split tunneling or obfuscation if you want to unlock the full power of your VPN.
 
 For actionable advice on choosing the right VPN (based on these features), see the guides at [thevpndirectory.com](https://www.thevpndirectory.com).
-
----
-
-## Tips for Publishing on GitHub Pages (Markdown)
-
-- Use headings (`#`, `##`, `###`) for clear sections.
-- **Bold** keywords for emphasis.
-- Lists and tables improve readability.
-- Add links using `[text](URL)` syntax. GitHub Pages automatically uses do-follow by default.
-- Use horizontal separators (`---`) between major sections.
-
-### How to Publish
-
-1. Save this article as `README.md` (or any `.md` filename) in your GitHub repo.
-2. In your repo, go to **Settings > Pages**, and select the branch/folder for GitHub Pages.
-3. Your Markdown file will be rendered beautifully as a web page, complete with working links and structured sections.
-
----
-
-Ready to take the next step? Learn everything VPN with comparisons, reviews, and ultimate guides at [thevpndirectory.com](https://www.thevpndirectory.com)!
